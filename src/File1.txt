@@ -1,5 +1,21 @@
-<<<<<<< HEAD
-Bonsoir
-=======
 Bonjour
->>>>>>> raphael_leude_bis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c'est le dernier commit pour avoir le compte bon
