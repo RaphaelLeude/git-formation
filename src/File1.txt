@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bonsoir
+=======
+Bonjour
+>>>>>>> raphael_leude_bis
